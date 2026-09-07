@@ -1,8 +1,23 @@
 {
   "schema": 1,
-  "generatedAt": 1788717651416,
-  "count": 2374,
+  "generatedAt": 1788782412791,
+  "count": 2377,
   "list": [
+    {
+      "handle": "msnsing",
+      "x_user_id": null,
+      "last_scored": 1788775960448
+    },
+    {
+      "handle": "litngd4",
+      "x_user_id": null,
+      "last_scored": 1788775959776
+    },
+    {
+      "handle": "star_fish_c",
+      "x_user_id": null,
+      "last_scored": 1788775959111
+    },
     {
       "handle": "skktck",
       "x_user_id": null,
