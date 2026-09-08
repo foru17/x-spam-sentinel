@@ -1,8 +1,13 @@
 {
   "schema": 1,
-  "generatedAt": 1788847213371,
-  "count": 2397,
+  "generatedAt": 1788890415995,
+  "count": 2398,
   "list": [
+    {
+      "handle": "sun76790508",
+      "x_user_id": "1193500786786889728",
+      "last_scored": 1788879336802
+    },
     {
       "handle": "samagicook",
       "x_user_id": null,
