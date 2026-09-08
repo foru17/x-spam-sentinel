@@ -1,8 +1,38 @@
 {
   "schema": 1,
-  "generatedAt": 1788804017141,
-  "count": 2391,
+  "generatedAt": 1788847213371,
+  "count": 2397,
   "list": [
+    {
+      "handle": "samagicook",
+      "x_user_id": null,
+      "last_scored": 1788845337627
+    },
+    {
+      "handle": "itbuxiangma",
+      "x_user_id": null,
+      "last_scored": 1788845336906
+    },
+    {
+      "handle": "opentimooo",
+      "x_user_id": null,
+      "last_scored": 1788845336232
+    },
+    {
+      "handle": "wuzhu_",
+      "x_user_id": null,
+      "last_scored": 1788845335523
+    },
+    {
+      "handle": "cdredfox",
+      "x_user_id": null,
+      "last_scored": 1788845334849
+    },
+    {
+      "handle": "emuoiea",
+      "x_user_id": null,
+      "last_scored": 1788845334169
+    },
     {
       "handle": "flowers_hurt",
       "x_user_id": "1048105054689873920",
